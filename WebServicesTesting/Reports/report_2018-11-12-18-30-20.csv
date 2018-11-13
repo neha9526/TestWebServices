@@ -1,0 +1,4 @@
+Web Service Action,intA,intB,HttpStatusCode,TestResult,Error Message
+Add,10,23,200,Success,
+Add,12,345,200,Success,
+Add,23,ed45,500,Unsuccessful ,The remote server returned an error: (500) Internal Server Error.
